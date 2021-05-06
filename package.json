@@ -1,0 +1,25 @@
+{
+  "name": "Springdbtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivandana/Springdbtest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivandana/Springdbtest/issues"
+  },
+  "homepage": "https://github.com/ivandana/Springdbtest#readme",
+  "dependencies": {
+    "dotenv": "^9.0.0",
+    "pg": "^8.6.0"
+  }
+}
